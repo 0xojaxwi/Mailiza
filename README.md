@@ -30,7 +30,7 @@ git clone https://github.com/1hecha0s/Mailiza
 ```
 
 ```
-cd WhatMail
+cd Mailiza
 ```
 
 ```
@@ -38,11 +38,11 @@ pip install colorama tabulate
 ```
 
 ```
-python WhatMail.py -hf {Path_to_header_file}
+python Mailiza.py -hf {Path_to_header_file}
 ```
 <br><h2>🎓 Usage:</h2>
 ``` 
-python WhatMail.py -hf header.txt
+python Mailiza.py -hf header.txt
 ```
 <br>
 Analyzes the email header in the 'header.txt' file and displays the results on the console.
@@ -51,7 +51,7 @@ Analyzes the email header in the 'header.txt' file and displays the results on t
 <br>
 
 ```
-python WhatMail.py -hf header.txt -O analysis_results.txt
+python Mailiza.py -hf header.txt -O analysis_results.txt
 ```
 <br>
         Analyzes the email header in the 'header.txt' file and saves the analysis results in the 'analysis_results.txt' file.
