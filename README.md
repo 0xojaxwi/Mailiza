@@ -26,7 +26,7 @@
 <br><h2>🛠️ Installation Steps:</h2>
 
 ```
-git clone https://github.com/z0m31en7/WhatMail.git
+git clone https://github.com/1hecha0s/Mailiza
 ```
 
 ```
