@@ -1,4 +1,4 @@
-<h1 align="center" id="title">Meliza?</h1><br>
+<h1 align="center" id="title">Maliza?</h1><br>
 
 <p align="center"><img src="Mailiza-Logo.png"></p><br>
 
